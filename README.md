@@ -46,7 +46,7 @@ In RPi:
   7) Run `export ROS_MASTER_URI=http://<IP Address>:11311` (Fill in `<IP Address>` with the IP Address from step 1 (so the master's IP Address!!!).
   8) You should add the commands from step 6 and 7 to the end of your `~/.bashrc` file to avoid running them everytime you open a new terminal.
   
-### Robot Keyboard Control of Robot
+### Keyboard Control of Robot
 
 First, upload `keyboard_ctrl.ino` file in the `/Arduino` folder into the Arduino.
 
