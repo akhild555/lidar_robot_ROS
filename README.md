@@ -73,9 +73,9 @@ In RPi:
 In VM:
 
   3) In a new terminal, navigate to `/catkin_ws` and source the setup file by running `source /devel/setup.bash`
-  4) Run `rosrun tf static_transform_publisher 0 0 0 0 0 0 0 laser_frame laser`.
+  4) Run `rosrun tf static_transform_publisher 0 0 0 0 0 0 0 laser_frame laser`
   5) In another terminal, navigate to `/catkin_ws` and source the setup file. Then, run `roslaunch rplidar_ros view_rplidar.launch`
-  6) Step 3 will open RVIZ. In the side bar on the left, change "Fixed Frame" to `laser_frame'.
+  6) Step 5 will open RVIZ. In the side bar on the left, change "Fixed Frame" to `laser_frame`.
   
 You should now see the lidar data the RPLIDAR is capturing.
 
@@ -84,5 +84,5 @@ Autonomous navigation to come...
 ## Acknowledgements 
 
 Some aspects of the robot hardware (primarily the mecanum wheels) are taken from Dejan's project here `https://howtomechatronics.com/projects/arduino-mecanum-wheels-robot/#unlock`. The robot base and RPLIDAR mount are unique to this robot.
-The `/hector_slam` and `rplidar_ros` folders in this repo were taken from NickL77's repo found here: `https://github.com/NickL77/RPLidar_Hector_SLAM`
+The `/hector_slam` and `/rplidar_ros` folders in this repo were taken from NickL77's repo found here: `https://github.com/NickL77/RPLidar_Hector_SLAM`
   
