@@ -14,7 +14,7 @@ The final robot hardware configurationcan be seen in the pictures below. The rob
 
 Side          |  Top | Iso
 :-------------------------:|:-------------------------:|:-------------------------:
-![](https://drive.google.com/uc?export=view&id=1dMWT2AYsNSj5l-Q1pf9MbfgqawcqjWNF) | ![](https://drive.google.com/uc?export=view&id=1_csEF7szx0qKdE9QWehedrRf9f_myN6v) | ![](https://drive.google.com/uc?export=view&id=1QGB4Wr9aIWFoiCitb-HxHLqdGY3_YQkX)
+![](https://i.imgur.com/B815roU.jpg) | ![](https://i.imgur.com/MukmtIb.jpg) | ![](https://i.imgur.com/Axxuxbe.jpg)
 
 ## Instructions
 
